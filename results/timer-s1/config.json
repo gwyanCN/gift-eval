@@ -1,9 +1,0 @@
-{
-    "model": "Timer-S1",
-    "model_type": "pretrained",
-    "model_dtype": "bf16",
-    "model_link": "https://huggingface.co/bytedance-research/Timer-S1",
-    "org": "Tsinghua & ByteDance",
-    "testdata_leakage": "No",
-    "replication_code_available": "Yes"
-}
